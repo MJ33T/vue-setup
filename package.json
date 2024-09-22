@@ -32,6 +32,8 @@
     "typed.js": "^2.1.0",
     "video-js": "^0.7.0",
     "vue": "^3.3.4",
+    "vue-advanced-cropper": "^2.8.9",
+    "vue-cropperjs": "^5.0.0",
     "vue-router": "^4.2.5",
     "vue-select": "^4.0.0-beta.6",
     "vue3-google-autocomplete": "^0.0.5",
